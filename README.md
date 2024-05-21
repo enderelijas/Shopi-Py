@@ -9,7 +9,7 @@ import discord
 from discord.ext import commands
 from shopipy import Shop, ShopPage, ShopItem
 ```
-### 2. Create a simple bot client (for more info please refer to [this]('https://discordpy.readthedocs.io/en/latest/quickstart.html'))
+### 2. Create a simple bot client (for more info please refer to [this]('https://discordpy.readthedocs.io/en/latest/quickstart.html')
 ```python
 client = commands.client(prefix="PREFIX_HERE")
 
