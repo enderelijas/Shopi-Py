@@ -1,7 +1,10 @@
 # Shopi-Py
 A simple utility package for building all sorts of shops with [discord.py]('https://github.com/Rapptz/discord.py') API wrapper.
 
-**Note: proper documentation and README will be added soon.**
+**Note:**
+- Proper README will be added soon.
+- Documentation is currently in progress and can be found [here](https://shopi-py-docs.readthedocs.io/en/latest/)
+  
 ## Quickstart
 ### 1. Import the required packages
 ```python
